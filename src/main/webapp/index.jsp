@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>GeekBrains Enterprise, lesson 1</h2>
 </body>
 </html>
